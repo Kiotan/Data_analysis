@@ -1,2 +1,2 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Привет!&fontAlign=23&fontAlignY=37&desc=Я%20Артем!%20Познакомился%20с%20DA%20оптимизируя%20работу%20судна.&descAlign=50)
-![github contribution grid snake animation](https://raw.githubusercontent.com/kiotan/kiotan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kiotan/kiotan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
