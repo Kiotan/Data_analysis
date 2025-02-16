@@ -1,1 +1,2 @@
-# Data_analysis
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Привет!&fontAlign=23&fontAlignY=37&desc=Я%20Артем!%20Познакомился%20с%20DA%20оптимизируя%20работу%20судна.&descAlign=50)
+[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/teuchezh/teuchezh/blob/main/github-metrics.svg">](https://github.com/teuchezh/teuchezh)
